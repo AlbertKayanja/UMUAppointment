@@ -1,6 +1,6 @@
 <?php
 
-require_once("functions/booking.php");
+require_once("model/booking.php");
 
 /* Call for Booking class */
 $booking = new Booking();
